@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://example.com
+https://yavo-yashir.zappy5.app
 חנות אונליין ענקית בהשראת עלי אקספרס עם מגוון מוצרים לכל קטגוריה. הפלטפורמה הטובה ביותר למסחר אלקטרוני לעסקים קטנים מחכה לך — התחל לקנות חכם עוד היום!
 
 ### מדריך יבוא ישיר
-https://example.com/direct-import-guide
+https://yavo-yashir.zappy5.app/direct-import-guide
 מדריך מקיף ליבוא ישיר שילמד אותך איך למכור עסק מסחר אלקטרוני כמו מקצוען. טיפים מעשיים לבחירת ספקים, חיסכון בעלויות והגדלת רווחים — הורד את המדריך עכשיו!
 
 ### סיפורי קונים
-https://example.com/buyer-stories
+https://yavo-yashir.zappy5.app/buyer-stories
 סיפורי קונים אמיתיים שחושפים איך להצליח בעסקי אמזון מסחר אלקטרוני. קבל השראה מאנשים שגילו מציאות, חסכו כסף ובנו עסק משגשג — קרא את הסיפורים עכשיו!
 
 ### צור קשר
-https://example.com/contact
+https://yavo-yashir.zappy5.app/contact
 צריך עזרה בבחירת מוצרים או הכוונה בפלטפורמת b2b למסחר אלקטרוני? צוות המומחים שלנו זמין לענות על כל שאלה ולהפוך את חוויית הקנייה שלך למנצחת — צור קשר עכשיו!
 
 ### Products
-https://example.com/products
+https://yavo-yashir.zappy5.app/products
 המוצרים שלנו - יבוא ישיר
 
 ### Cart
-https://example.com/cart
+https://yavo-yashir.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://yavo-yashir.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://yavo-yashir.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://yavo-yashir.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://yavo-yashir.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://yavo-yashir.zappy5.app/product/:slug
 פרטי המוצר - יבוא ישיר
 
 ### Category
-https://example.com/category/:slug
+https://yavo-yashir.zappy5.app/category/:slug
 מוצרים - יבוא ישיר
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://yavo-yashir.zappy5.app/thank-you
 יבוא ישיר - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yavo-yashir.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yavo-yashir.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yavo-yashir.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://yavo-yashir.zappy5.app/sitemap.xml
+- Robots: https://yavo-yashir.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yavo-yashir.zappy5.app/llms-full.txt
+- Products (JSON): https://yavo-yashir.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yavo-yashir.zappy5.app/product-feed.xml
