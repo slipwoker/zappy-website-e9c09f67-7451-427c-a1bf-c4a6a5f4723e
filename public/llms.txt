@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-e9c09f67.zappy5.app
+https://example.com
 חנות אונליין ענקית בהשראת עלי אקספרס עם מגוון מוצרים לכל קטגוריה. הפלטפורמה הטובה ביותר למסחר אלקטרוני לעסקים קטנים מחכה לך — התחל לקנות חכם עוד היום!
 
 ### מדריך יבוא ישיר
-https://-e9c09f67.zappy5.app/direct-import-guide
+https://example.com/direct-import-guide
 מדריך מקיף ליבוא ישיר שילמד אותך איך למכור עסק מסחר אלקטרוני כמו מקצוען. טיפים מעשיים לבחירת ספקים, חיסכון בעלויות והגדלת רווחים — הורד את המדריך עכשיו!
 
 ### סיפורי קונים
-https://-e9c09f67.zappy5.app/buyer-stories
+https://example.com/buyer-stories
 סיפורי קונים אמיתיים שחושפים איך להצליח בעסקי אמזון מסחר אלקטרוני. קבל השראה מאנשים שגילו מציאות, חסכו כסף ובנו עסק משגשג — קרא את הסיפורים עכשיו!
 
 ### צור קשר
-https://-e9c09f67.zappy5.app/contact
+https://example.com/contact
 צריך עזרה בבחירת מוצרים או הכוונה בפלטפורמת b2b למסחר אלקטרוני? צוות המומחים שלנו זמין לענות על כל שאלה ולהפוך את חוויית הקנייה שלך למנצחת — צור קשר עכשיו!
 
 ### Products
-https://-e9c09f67.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - יבוא ישיר
 
 ### Cart
-https://-e9c09f67.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-e9c09f67.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-e9c09f67.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-e9c09f67.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-e9c09f67.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-e9c09f67.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - יבוא ישיר
 
 ### Category
-https://-e9c09f67.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - יבוא ישיר
 
 ### תודה שפניתם אלינו
-https://-e9c09f67.zappy5.app/thank-you
+https://example.com/thank-you
 יבוא ישיר - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e9c09f67.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e9c09f67.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e9c09f67.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-e9c09f67.zappy5.app/sitemap.xml
-- Robots: https://-e9c09f67.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-e9c09f67.zappy5.app/llms-full.txt
-- Products (JSON): https://-e9c09f67.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-e9c09f67.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
